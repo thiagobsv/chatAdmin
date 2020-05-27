@@ -1,6 +1,6 @@
 module.exports = {
 
-  token: '1075517277:AAEpUZp2m72f6KvdekwxOQ-MwHNmqjUugdY',
+  token: '1233615113:AAFkwb_9qT678Yik8zbGV0H5KEN5vtCLWoc',
   mongoLink: 'mongodb+srv://chat:admin@cluster0-g4hlr.mongodb.net/iktzi?retryWrites=true&w=majority',
   chats: [-1001381307542, -1001166073886, -1001410544997], // your chats
   botId: 1075517277, // bot id
